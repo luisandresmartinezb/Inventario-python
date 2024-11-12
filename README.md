@@ -90,13 +90,10 @@ El archivo main.py contiene la lógica de ejecución principal:
 5. Buscar producto
 6. Salir
 
-
-
-
-2. Si eliges agregar un producto, el programa pedirá los detalles del producto, como el nombre, categoría, precio y cantidad.
-3. Si eliges actualizar un producto, el programa te pedirá el nombre del producto y, opcionalmente, puedes actualizar el precio o la cantidad.
-4. Si eliges eliminar un producto, el programa pedirá el nombre del producto a eliminar.
-5. Si eliges mostrar el inventario, se mostrará una lista de todos los productos actuales.
+- **Si** eliges agregar un producto, el programa pedirá los detalles del producto, como el nombre, categoría, precio y cantidad.
+- **Si** eliges actualizar un producto, el programa te pedirá el nombre del producto y, opcionalmente, puedes actualizar el precio o la cantidad.
+- **Si** eliges eliminar un producto, el programa pedirá el nombre del producto a eliminar.
+- **Si** eliges mostrar el inventario, se mostrará una lista de todos los productos actuales.
 
 # Contribución: 
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork y enviar un pull request con tus cambios.
